@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.canvas {
+    background-color: rgb(169, 223, 169);
+}
